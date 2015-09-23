@@ -19,15 +19,15 @@ High quality = awesome image:
 	
 	crop-image.php?src=source/test.jpg&q=100
 
-Specify the width only and the **height** will change to be relatively sized to keep the picture in proportion:
+Specify the width only and the **Height** will change to be relatively sized to keep the picture in proportion:
 	
 	crop-image.php?src=source/test.jpg&w=500
 
-Specify the height only and the **width** will change to be relatively sized to keep the picture in proportion:
+Specify the height only and the **Width** will change to be relatively sized to keep the picture in proportion:
 	
 	crop-image.php?src=source/test.jpg&h=350
 
-Width and Height together:
+**Width** and **Height** together:
 	
 	crop-image.php?src=source/test.jpg&h=350&w=500
 	
